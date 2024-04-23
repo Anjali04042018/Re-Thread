@@ -1,12 +1,10 @@
 # Project: ReThread
-## Website Link : https://re-thread.netlify.app/
+## Website Link : https://rethread-main.netlify.app/
 ## API Documentation : https://documenter.getpostman.com/view/29752971/2s9YsT6UP7
 ## Backend Routes Link : https://rethread.onrender.com/
-## Figma Design: https://www.figma.com/file/6iVwYsClDcYMjZlqJueAor/Untitled?type=design&node-id=45%3A251&mode=design&t=n25jfAn6XKE7UtzI-1
+
 <br>
 
-## Video Link
-[![Screenshot](https://github.com/Deepanshi03/re_thread/assets/92084743/e4666b86-a823-4e57-9671-b78d11badf51)](https://youtu.be/tV-O_enx7Ck?si=Wk4z2skI-UTOAkL5)
 
 
 ### Target Problem To Be Solved
