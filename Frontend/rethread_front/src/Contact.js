@@ -32,7 +32,7 @@ function Contact() {
         </h1>
         <div style={{ display: "flex", flexDirection: "row" }}>
           <Card className='animate_from_bottom' sx={{ width: 330, marginTop: 3, marginLeft: 3, marginBottom:3, boxShadow: 5 }}>
-            <CardActionArea component={Link} href="https://www.instagram.com/" target="_blank">
+            <CardActionArea component={Link} href="https://www.instagram.com/_" target="_blank">
               <CardMedia
                 component="img"
                 height="160"
@@ -43,14 +43,14 @@ function Contact() {
                   Instagram
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  anjali
+                  Anjali
                 </Typography>
               </CardContent>
             </CardActionArea>
           </Card>
 
           <Card className='animate_from_bottom' sx={{ width: 330, marginTop: 3, marginLeft: 3, marginBottom:3, boxShadow: 5 }}>
-            <CardActionArea component={Link} href="https://www.linkedin.com/" target="_blank">
+            <CardActionArea component={Link} href="https://www.linkedin.com/in/anjalikumari2201/" target="_blank">
               <CardMedia
                 component="img"
                 height="160"
@@ -61,14 +61,14 @@ function Contact() {
                   LinkedIn
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  anjali
+                  anjalikumari2201
                 </Typography>
               </CardContent>
             </CardActionArea>
           </Card>
 
           <Card className='animate_from_bottom' sx={{ width: 330, marginTop: 3, marginLeft: 3, marginBottom:3, boxShadow: 5 }}>
-            <CardActionArea component={Link} href="https://github.com/Deepanshi03" target="_blank">
+            <CardActionArea component={Link} href="https://github.com/Anjali04042018" target="_blank">
               <CardMedia
                 component="img"
                 height="160"
@@ -79,14 +79,14 @@ function Contact() {
                   GitHub
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  anjali
+                Anjali04042018
                 </Typography>
               </CardContent>
             </CardActionArea>
           </Card>
 
           <Card className='animate_from_bottom' sx={{ width: 330, marginTop: 3, marginLeft: 3, marginBottom:3, boxShadow: 5 }}>
-            <CardActionArea component={Link} href="https://mail.google.com/mail/?view=cm&fs=1&to=deepanshidey03@gmail.com" target="_blank">
+            <CardActionArea component={Link} href="https://mail.google.com/mail/?view=cm&fs=1&to=anjali04042018@gmail.com" target="_blank">
               <CardMedia
                 component="img"
                 height="160"
